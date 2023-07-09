@@ -1,0 +1,13 @@
+/* imagen de footer para desktop */
+.bg-image {
+    background-image: url(../images/fondo10.jpg);
+    background-size: cover;
+    background-position: center;
+}
+/* imagen footer para mobile */
+@media (max-width: 768px){
+    .bg-image{
+        background-image: url(../images/fondoFooter.jpg);
+        background-size: contain;
+    }
+}

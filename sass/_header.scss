@@ -1,0 +1,18 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.navbar {
+    justify-content: flex-start;
+}
+
+/* logo del nav y footer */
+.loguito {
+    margin-bottom: auto;
+    height: 60px;
+    width: 60px;
+}
+

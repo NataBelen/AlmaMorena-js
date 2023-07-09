@@ -1,0 +1,70 @@
+@keyframes animacionTitulo{
+    0% {
+        color: #fff;
+    }
+    50% {
+        color: #8a8383;
+    }
+    100% {
+        color: #fff;
+    }
+}
+
+h1 {
+    animation-name: animacionTitulo;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animacion-posicion {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-20deg);
+    }
+}
+ .loguito:hover {
+    animation-name: animacion-posicion;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animacionH2{
+    0% {
+        background-image: linear-gradient(to right, #fff, #74416b, #e9e6e6);
+    }
+    50% {
+        background-image: linear-gradient(to left, #7e7777, #b978ad, #c9c7c7); 
+    }
+    100% {
+        background-image: linear-gradient(to right, #bdb5bb, #888288, #85487c);  
+    }
+}
+
+h2 {
+    animation-name: animacionH2;
+    animation-duration: 6s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animacion-botones {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-20deg);
+    }
+    from {
+        transform: rotate(30deg);
+    }
+}
+ .botones img:hover {
+    animation-name: animacion-botones;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}

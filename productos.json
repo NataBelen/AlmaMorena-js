@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nombre": "GOTERO",
+      "descripcion": "Tintura Madre de Lavanda y CBD - 30ml",
+      "precio": 5500,
+      "cantidad": 0,
+      "stock": 50,
+      "imagen": "./images/imgGotero.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "SPRAY",
+      "descripcion": "Tintura Madre de Lavanda y CBD - 50ml",
+      "precio": 1800,
+      "cantidad": 0,
+      "stock": 50,
+      "imagen": "./images/imgSpray.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "CREMA",
+      "descripcion": "Tintura Madre de Lavanda y CBD",
+      "precio": 2500,
+      "cantidad": 0,
+      "stock": 50,
+      "imagen": "./images/imgCrema.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "ROLL",
+      "descripcion": "Tintura Madre de Lavanda y CBD - 10ml",
+      "precio": 1300,
+      "cantidad": 0,
+      "stock": 50,
+      "imagen": "./images/imgRoll.jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "COMBO",
+      "descripcion": "Tintura Madre de Lavanda y CBD - Combo",
+      "precio": 10000,
+      "cantidad": 0,
+      "stock": 10,
+      "imagen": "./images/imgCombo.jpeg"
+    },
+    {
+      "id": 6,
+      "nombre": "SPRAY 100cc",
+      "descripcion": "Tintura Madre de Lavanda y CBD - 100ml",
+      "precio": 2700,
+      "cantidad": 0,
+      "stock": 50,
+      "imagen": "./images/imgSpraydos.jpeg"
+    }
+  ]
